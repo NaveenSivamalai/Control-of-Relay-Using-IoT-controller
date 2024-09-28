@@ -1,3 +1,5 @@
+## NAME: NAVEEN S
+## REG NO: 212222110030
 # EXPERIMENT NO: 2 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
